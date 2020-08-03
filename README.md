@@ -1,6 +1,6 @@
 ### Hi there, My name is Bousri Houssam 👋
 
-## I'm Master Student in software engineering and a Developer!
+### Master Student in software engineering and a Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
