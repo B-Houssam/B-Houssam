@@ -1,8 +1,7 @@
 ### Hi there, My name is Bousri Houssam 👋
 
-### Master Student in software engineering and a Mobile Developer!
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
+### Software engineer and freelance developer!
+- 🌱 Web and native mobile developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
