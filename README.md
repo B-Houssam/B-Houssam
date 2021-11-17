@@ -2,7 +2,7 @@
 
 ### Software engineer and freelance developer!
 - 🌱 Web and native mobile developer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
